@@ -22,11 +22,13 @@ Usage:
 3. Press GO
 
 Error?
+
 All exceptions are returned to the end user so you can self diagnose or contact me for support.
 Very long lists time out and are very buggy especially if there are any private profiles in your input
 Private or friends-only input accounts will break the program so don't try it.
 
 How it works?
+
 All your inputs are collected together,
 Each input's friendlist is generated,
 Each input's friendlist is compared with every other input's friendlist (poor design, O = 2^x),
@@ -34,4 +36,5 @@ If any two people share a friend this mutual friend is added to a new list,
 New list is parsed back through the web api and account details are retrieved.
 
 Tip:
+
 Result values can be added back into your initial search. (things start to get messy with lots of inputs, be warned!)
