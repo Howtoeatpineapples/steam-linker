@@ -20,7 +20,7 @@ Usage:
 
 Errors:
 All exceptions are returned to the end user so you can self diagnose or contact me for support.
-Very long lists time out and are very buggy especially if there are any private profiles in your input
+Very long lists time out and are very buggy especially if there are any private profiles in your input.
 Private or friends-only input accounts will break the program so don't try it.
 
 How it works:
