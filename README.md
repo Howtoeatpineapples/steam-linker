@@ -11,7 +11,7 @@ Requirements:
 2.  A list of friends you would like to network.
      This list must be made up of steamID64s of the users: 
      Vales can be separated using one of the following delimiters ( ' ', ',', '.', '\t', '\n', '-', ':' )  \t = tab & \n =  linebreak
-     example input: 76561198062411111,76561198062411112,76561198062411113,76561198062411114 
+     example input: 76561198062411111,76561198062411112,76561198062411113,76561198062411116
      
 Usage:
 1. Input API key into top text box
